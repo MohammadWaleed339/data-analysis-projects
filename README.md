@@ -18,6 +18,6 @@ The data is sourced from Glassdoor website and provided by Labmantix under their
 ### Tools: Jupyter Notebook
 
 ## Team Members
-#### [Mohd Tabrej Khan] - []
+#### [Mohd Tabrej Khan] - [mdtk956@gmail.com]
 #### [Mohammad Waleed] - [mohammadwaleed339@gmail.com]
 #### [Owais Khan] - []
