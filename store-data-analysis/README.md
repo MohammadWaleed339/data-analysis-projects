@@ -68,11 +68,11 @@ The intent is to uncover bottlenecks and inefficiencies in the store's operation
 
 Key insights from the analysis include:
 
-- 🏆 **Top Suppliers**: A few suppliers consistently deliver high-quality products with minimal delays.
-- 🚫 **Underperforming Suppliers**: Certain suppliers have high return rates and poor customer reviews.
+- 🏆 **Top Suppliers**: On average suppliers shipped 200-300 times but close to 30 suppliers get more than average orders.
+- 🚫 **Underperforming Suppliers**:14 suppliers get below average and one of them has got only 20 oders in total.
 - 💰 **High-Value Customers**: A small segment of customers contributes disproportionately to total revenue.
-- 🚚 **Reliable Delivery Partners**: One delivery partner stands out with the fastest and most consistent delivery times.
-- 📦 **Revenue-Generating Products**: A handful of products account for a large portion of sales, suggesting potential for focused marketing.
+- 🚚 **Reliable Delivery Partners**: DHL is best since the no. of packages cancelled and pending are lowest amoung three.
+- 📦 **Revenue-Generating Products**: The electronics category yields significant portion of revenue but accessories and home appliances are not so far.
 
 ## Next Steps 🔄
 
