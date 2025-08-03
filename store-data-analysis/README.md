@@ -2,7 +2,7 @@
 This is a data analysis projecrt of an online store which contains several files in the csv formate, The analysis is performed using sql, python and PowerBI with proper logging and clean code.
 
 ## Introduction ℹ️
-This projects dives deeper into the data provided by online store to extract the insights about the customers, products, delivery partners and suppliers. The data is first extracted from mysql server using sqlAlchemy then the relevant table to used to fetch the information about respective topic, at the end a sql query is used to combine all those data into single table called final table that is used further to perform EDA and visualization. In the end a PowerBI is used to show case the impoortant finding in a form of dashboard.
+This projects dives deeper into the data provided by online store to extract the insights about the customers, products, delivery partners and suppliers. The data is first extracted from mysql server using sqlAlchemy then the relevant table to used to fetch the information about respective topic, at the end a sql query is used to combine all those data into single table called final table that is used further to perform EDA and visualization. In the end PowerBI is used to show case the important finding in a form of dashboard.
 
 ## Data 📅
 * customer.csv
