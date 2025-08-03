@@ -26,6 +26,7 @@ The dataset includes the following files:
 The project is organized as follows:
 
 store-data-analysis/
+
 ├── datasets/                         
 ├── logs/                             
 │   ├── LoadingToSql.log              
