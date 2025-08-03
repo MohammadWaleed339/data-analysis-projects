@@ -14,7 +14,7 @@ This projects dives deeper into the data provided by online store to extract the
 * shipments.csv
 * suppliers.csv
 * final_table.csv
-The final table is the aggregate of the of the table that contans relevant information which is used to perform EDA and visualization. 
+The final table is the aggregate of the table that contans relevant information which is then used to perform EDA and visualization. 
 
 
 ## Objective
