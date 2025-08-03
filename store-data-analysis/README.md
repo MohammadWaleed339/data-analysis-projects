@@ -26,17 +26,17 @@ The dataset includes the following files:
 The project is organized as follows:
 
 store-data-analysis/
-├── datasets/                         # Raw or processed data files
-├── logs/                             # Contains only log files
-│   ├── LoadingToSql.log              # Log file for SQL loading process
-│   ├── SummaryTable.log              # Log file for summary table generation
-├── Dashboard-store-analysis.pbix     # Power BI dashboard file
-├── EDA.ipynb                         # Exploratory Data Analysis notebook
-├── LoadingToSql.ipynb                # Notebook for loading data into SQL
-├── README.md                         # Project overview and instructions
-├── VisualisationAndTesting.ipynb     # Notebook for visualization and testing
-├── ingestion.py                      # Python script for data ingestion
-├── summary_table.py                  # Script for generating summary tables
+├── datasets/                         
+├── logs/                             
+│   ├── LoadingToSql.log              
+│   ├── SummaryTable.log              
+├── Dashboard-store-analysis.pbix     
+├── EDA.ipynb                         
+├── LoadingToSql.ipynb                
+├── README.md                         
+├── VisualisationAndTesting.ipynb     
+├── ingestion.py                      
+├── summary_table.py                  
 
 
 ## Tools & Libraries Used 🧰
