@@ -1,0 +1,24 @@
+2025-07-20 18:42:49,774 - DEBUG - Fresh logging config applied successfully.
+2025-07-20 18:42:49,775 - INFO - ---getting summary table---
+2025-07-20 18:42:50,325 - INFO -    customer_id  PricePaidPerCustomer  SumPriceAtPayment  product_id  \
+0         9077              13151.44            2360.30        1577   
+1         1577               6664.96            1565.64        1577   
+2         7577               6232.40             740.70        1577   
+3           77               8589.38            1513.26        1577   
+4         4577               3574.26               8.32        1577   
+
+   supplier_id  avg_rating  AvgItemPriceAtPurchase  order_item_id  \
+0          577         2.0                  999.54           5618   
+1          577         2.0                  999.54           5618   
+2          577         2.0                  999.54           5618   
+3          577         2.0                  999.54           5618   
+4          577         2.0                  999.54           5618   
+
+   TotalQuantity product_name     category  ProductPrice  
+0            4.0  Smart Watch  Electronics        286.12  
+1            4.0  Smart Watch  Electronics        286.12  
+2            4.0  Smart Watch  Electronics        286.12  
+3            4.0  Smart Watch  Electronics        286.12  
+4            4.0  Smart Watch  Electronics        286.12  
+2025-07-20 18:42:50,359 - INFO - ---Ingestion started---
+2025-07-20 18:42:51,328 - INFO - ingestion complete
